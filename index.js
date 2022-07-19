@@ -78,4 +78,4 @@ function fahrenheitToCelsius(fahrenheit) {
 
 fahrenheitToCelsius(32);
 
-// console.log('---------------------------------');
+console.log('---------------------------------');
